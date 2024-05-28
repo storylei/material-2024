@@ -22,6 +22,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 ### Browsers and client-side applications
 - See **Reading 1**
 - [JavaScript in the browser](./slide/3-01-JS-browser.pdf)
+- [fetch API](./slide/3-02-fetch.pdf)
 
 
 ### React
@@ -29,6 +30,10 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [JSX, Components, props](./slide/4-02-Elements-and-JSX.pdf)
 - [Components and state](./slide/4-03-Components-and-state.pdf)
 - [Forms](./slide/4-04-Forms.pdf)
+- [Context](./slide/4-05-Context.pdf)
+- [React Router](./slide/4-06-React-Router.pdf)
+- [Client-Server Interaction in React](./slide/4-07-Client-Server-React.pdf)
+- [React Life Cycle](./slide/4-08-LifeCycle.pdf)
 
 ## Readings
 
